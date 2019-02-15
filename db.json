@@ -1,0 +1,35 @@
+    "clients":[  
+        {  
+            "id":1,
+            "name":"ATOS",
+            "description":"A great business model",
+            "questionnaires":[  
+                1,
+                3
+            ]
+        },
+        {  
+            "id":2,
+            "name":"NHS",
+            "description":"National Health Service of UK",
+            "questionnaires":[  
+                2
+            ]
+        },
+        {  
+            "id":3,
+            "name":"IBM",
+            "description":"Their marketing department",
+            "questionnaires":[  
+                4
+            ]
+        },
+        {  
+            "id":4,
+            "name":"IBM",
+            "description":"Their marketing department",
+            "questionnaires":[  
+                4
+            ]
+        }
+    ],
